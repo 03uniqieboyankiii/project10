@@ -169,7 +169,7 @@ nav {
     animation: moveContent1 50s linear infinite;
     font-size: 15px;
     text-decoration: none;
-    color: rgb(224, 11, 11);
+    color: rgb(8, 21, 143);
 }
 .latest:hover{
     background-color: #fff;
@@ -185,7 +185,7 @@ nav {
     animation: moveContent2 50s linear infinite;
     font-size: 15px;
     text-decoration: none;
-    color:  rgb(224, 11, 11);
+    color:  rgb(8, 21, 143);
 }
 .latest1:hover{
     background-color: #fff;
@@ -402,7 +402,7 @@ h4{
     animation: moveContent1 50s linear infinite;
     font-size: 10px;
     text-decoration: none;
-    color: rgb(224, 11, 11);
+    color: rgb(8, 21, 143);
 }
 .latest:hover{
     background-color: #fff;
@@ -418,7 +418,7 @@ h4{
     animation: moveContent2 50s linear infinite;
     font-size: 10px;
     text-decoration: none;
-    color: rgb(224, 11, 11);
+    color: rgb(8, 21, 143);
 }
 .latest1:hover{
     background-color: #fff;
